@@ -1,5 +1,4 @@
 <?php
-// File wajib: jika tidak ditemukan, program berhenti dengan error
 include 'data.php';
 include 'function.php';
 
